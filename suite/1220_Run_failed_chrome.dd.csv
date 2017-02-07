@@ -1,0 +1,148 @@
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Outcome,Summer 2016 DC Internships,Auto_Data_CustomReports_3
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,OCI,Auto_Data_CustomReports_10
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Events Report,Auto_Data_CustomReports_15
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Outcome,M16 Graduation,Auto_Data_CustomReports_16
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,OCI,Auto_Data_CustomReports_17
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Career Center Account Manager for Job posting,Auto_Data_CustomReports_18
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Publish Date,Auto_Data_CustomReports_19
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,# of Attendees Permitted,Auto_Data_CustomReports_23
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Submit Date,Auto_Data_CustomReports_24
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Created On,Auto_Data_CustomReports_25
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Employer Name,Auto_Data_CustomReports_26
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Industry,Auto_Data_CustomReports_27
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Dress Attire,Auto_Data_CustomReports_28
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,OCI or Job Listings,Auto_Data_CustomReports_31
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Rotating Schedule,Auto_Data_CustomReports_32
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Employer,Auto_Data_CustomReports_33
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Student Group is Full-Time Job Candidates,Auto_Data_CustomReports_34
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Student Group is Internship Candidates,Auto_Data_CustomReports_35
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Student Group is 1st and 2nd year evening students,Auto_Data_CustomReports_37
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Student Group is 1st and 2nd year evening students with Industry is Consulting,Auto_Data_CustomReports_38
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Student Groups is All MBA Alumni,Auto_Data_CustomReports_39
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,All Current Students,Auto_Data_CustomReports_40
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,US Work Auth Requirement is Permanent,Auto_Data_CustomReports_41
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Hide Employer Name from Applicants,Auto_Data_CustomReports_42
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,US Work Auth Requirement is All,Auto_Data_CustomReports_43
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,# of Registrants,Auto_Data_CustomReports_44
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,# of Waitlist,Auto_Data_CustomReports_45
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Job Function,Auto_Data_CustomReports_46
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Job Phase,Auto_Data_CustomReports_49
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Target Audience with Industry is Consumer Goods,Auto_Data_CustomReports_51
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Target Audience with Industry is Financial Services,Auto_Data_CustomReports_52
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Presenter with Industry is International Development,Auto_Data_CustomReports_54
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Career Center Account Manager is Eric Young,Auto_Data_CustomReports_55
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Type of Job,Auto_Data_CustomReports_58
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Industry is Technology,Auto_Data_CustomReports_60
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Industry is Government,Auto_Data_CustomReports_61
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Event,Industry is Education,Auto_Data_CustomReports_62
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Job Posting,Job Posting Owner Email,Auto_Data_CustomReports_65
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Company,Industry,Auto_Data_CustomReports_69
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Contact,Contact Info,Auto_Data_CustomReports_95
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Contact,Industry,Auto_Data_CustomReports_99
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Contact,Employer Name,Auto_Data_CustomReports_101
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Contact,Is Alumni,Auto_Data_CustomReports_102
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Contact,City,Auto_Data_CustomReports_105
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Contact,Location,Auto_Data_CustomReports_106
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Outcome,Employer,Auto_Data_CustomReports_179
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Outcome,Compensation,Auto_Data_CustomReports_194
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Outcome,Compensation 2,Auto_Data_CustomReports_195
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Outcome,City,Auto_Data_CustomReports_202
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Outcome,Employer,Auto_Data_CustomReports_204
+#script,url,tags,sRunStatus,sSite,sReportName,sSubReport,sDatafileName10
+CustomReports_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Custom-reports,Actual",Y,Georgetown Business,Outcome,Compensation Internship,Auto_Data_CustomReports_205
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear4,sGradTerm4,sOfferTiming4,sCutoffDate4,sSubReport,sDatafileName4
+NALP_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NALP,Actual",Y,NALP Report (16),UCLA_Law,2013,0,0,With,Class Summary,Auto_Data_NALP_Table_CS_Table_1
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear4,sGradTerm4,sOfferTiming4,sCutoffDate4,sSubReport,sDatafileName4
+NALP_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NALP,Actual",Y,NALP Report (16),UCLA_Law,2013,0,0,Without,Class Summary,Auto_Data_NALP_Table_CS_Table_2
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear4,sGradTerm4,sOfferTiming4,sCutoffDate4,sSubReport,sDatafileName4
+NALP_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NALP,Actual",Y,NALP Report (16),UCLA_Law,2013,0,1,With,Class Summary,Auto_Data_NALP_Table_CS_Table_3
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear4,sGradTerm4,sOfferTiming4,sCutoffDate4,sSubReport,sDatafileName4
+NALP_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NALP,Actual",Y,NALP Report (16),UCLA_Law,2013,1,0,With,Class Summary,Auto_Data_NALP_Table_CS_Table_4
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear4,sGradTerm4,sOfferTiming4,sCutoffDate4,sSubReport,sDatafileName4
+NALP_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NALP,Actual",Y,NALP Report (16),UCLA_Law,2012,0,0,With,Class Summary,Auto_Data_NALP_Table_CS_Table_5
+#script,url,tags,sRunStatus,sSite,sReportName,sAttribute,sSub_Attr,sSchool,sProgram,sJob,sPay,sPayPeriode,sGradYear,sOfferStatus,sExcludeSponser,sSort,sDatafileName
+StudentTools_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Student-tools,Actual",Y,Georgetown Business,Outcomes Index,Industry,,12Twenty Network - US Schools,FTMBA,Post Graduation,Base Salary,per year,All,All Offers,Yes,Base Salary,Auto_Data_OutcomesIndex_3
+#script,url,tags,sRunStatus,sSite,sReportName,sJobPhase,sJobType,sInterviewType,sStudentGroup,sJobPostingStatus,sRegistrationStatus,sEmployerName,sJobTitle,sJobIndustry,sJobFunction,sLocation,sLoc_Filter,sUSWorkAuth,sRecruitingYear,sPostedDate,sAppDueDate,sAppDueDate1,sCompanyPresen,sRoomAssign,sBiddingRound,sDatafileName
+Jobposting_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Job-postings,Actual",Y,Georgetown Business,Job Postings,Internship,Internship,1,All,Application Open,All,,,All,All,,,All,All,All,,,All,All,All,Auto_Data_JobPostings_22
+#script,url,tags,sRunStatus,sSite,sReportName,sAdvise,sAppointmentType,sBlockType,sDatafileName
+Appoint_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Appointments,Actual",Y,Georgetown Business,appointments,Eric Young,All,0,Auto_Data_Appointments_1
+#script,url,tags,sRunStatus,sSite,sReportName,sAdvise,sAppointmentType,sBlockType,sDatafileName
+Appoint_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Appointments,Actual",Y,Georgetown Business,appointments,All,General Coaching Appointment,0,Auto_Data_Appointments_2
+#script,url,tags,sRunStatus,sSite,sReportName,sAdvise,sAppointmentType,sBlockType,sDatafileName
+Appoint_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Appointments,Actual",Y,Georgetown Business,appointments,All,"General Coaching Appointment, Mock Case Interview",0,Auto_Data_Appointments_3
+#script,url,tags,sRunStatus,sSite,sReportName,sAdvise,sAppointmentType,sBlockType,sDatafileName
+Appoint_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Appointments,Actual",Y,Georgetown Business,appointments,All,All,1,Auto_Data_Appointments_4
+#script,url,tags,sRunStatus,sSite,sReportName,sAdvise,sAppointmentType,sBlockType,sDatafileName
+Appoint_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Appointments,Actual",Y,Georgetown Business,appointments,All,All,2,Auto_Data_Appointments_5
+#script,url,tags,sRunStatus,sSite,sReportName,sAdvise,sAppointmentType,sBlockType,sDatafileName
+Appoint_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_Appointments,Actual",Y,Georgetown Business,appointments,All,"General Coaching Appointment, Mock Case Interview",1,Auto_Data_Appointments_6
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Fordham_Centralized,2014,0,All,0,All Majors,--,Summary,Auto_Data_NACE_Table1_1
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Fordham_Centralized,2014,1,All,1,All Majors,--,Summary,Auto_Data_NACE_Table1_2
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Fordham_Centralized,2014,0,All,2,All Majors,--,Summary,Auto_Data_NACE_Table1_3
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Fordham_Centralized,2014,0,All,3,All Majors,--,Summary,Auto_Data_NACE_Table1_4
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Fordham_Centralized,2014,0,All,0,Primary Major Only,--,Summary,Auto_Data_NACE_Table1_5
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Fordham_Centralized,2014,0,FC AT ROSE HILL,0,All Majors,--,Summary,Auto_Data_NACE_Table1_6
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Fordham_Centralized,2014,1,All,0,All Majors,--,Summary,Auto_Data_NACE_Table1_7
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Fordham_Centralized,2013,0,All,0,All Majors,--,Summary,Auto_Data_NACE_Table1_8
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Columbia_Centralized,2014,0,All,0,All Majors,0,Summary,Auto_Data_NACE_Table1_9
+#script,url,tags,sRunStatus,sSiteType,sSite,sGradYear3,sGradTerm3,sCollege3,sDegreelevel3,sReportingMajor3,sProgram3,sSubReport,sDatafileName3
+NACE_Actual.sah,http://sahitest.com/demo/,"Actual_All,Actual_NACE,Actual",Y,NACE Report (7),Columbia_Centralized,2014,0,All,0,All Majors,1,Summary,Auto_Data_NACE_Table1_10
