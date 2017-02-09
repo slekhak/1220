@@ -26,7 +26,7 @@
 		<property name="emailPasswordHidden" value="true"/>
 		<property name="baseURL" value="http://sahitest.com/demo/"/>
 		<property name="host" value="localhost"/>
-		<property name="port" value="9994"/>
+		<property name="port" value="9999"/>
 		<property name="singlesession" value="false"/>
 		<property name="threads" value="5"/>
 		<property name="failedSuiteName" value="1220_Run_failed_${browser}.dd.csv"/>
